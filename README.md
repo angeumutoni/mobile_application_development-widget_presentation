@@ -5,9 +5,9 @@ Tooltip widgets automatically adapt to platforms. On mobile it appears on long p
 
 
 # Syntax:
-Tooltip(    return
-  message: 'Add to favorites',  return
-  child: Icon(Icons.favorite),   return
+Tooltip( <br/>
+  message: 'Add to favorites', <br/>
+  child: Icon(Icons.favorite), <br/>
 )
 
 
