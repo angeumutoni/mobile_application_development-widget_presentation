@@ -35,13 +35,3 @@ Open Android Studio or VS Code, start an emulator and run: </br>
 flutter pub get </br>
 flutter run </br>
 The app will run as expected. All you have to do next is long press the red delete icon to see the Tooltip.
-
-# The demo structure:
-project-name/ </br>
-│ </br>
-├── pubspec.yaml </br>
-└── lib/ </br>
-    └── main.dart </br>
-└── screenshots/ </br>
-    ├── web_tooltip.png </br>
-    └── mobile_tooltip.png </br>
