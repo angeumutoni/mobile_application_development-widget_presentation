@@ -26,12 +26,12 @@ Tooltip( <br/>
 # How to run the demo
 # 1. On Web:
 Ensure Flutter is installed, navigate to the project directory and run: </br>
-flutter pub get </br>
-flutter run -d chrome </br>
+**flutter pub get** </br>
+**flutter run -d chrome** </br>
 The app will open in your browser. All you have to do next is hover over the red delete icon to see the Tooltip.
 
 # 2. On Mobile Emulator
 Open Android Studio or VS Code, start an emulator and run: </br>
-flutter pub get </br>
-flutter run </br>
+**flutter pub get** </br>
+**flutter run** </br>
 The app will run as expected. All you have to do next is long press the red delete icon to see the Tooltip.
