@@ -35,3 +35,6 @@ Open Android Studio or VS Code, start an emulator and run: </br>
 **flutter pub get** </br>
 **flutter run** </br>
 The app will run as expected. All you have to do next is long press the red delete icon to see the Tooltip.
+
+# Screenshots
+<img width="1280" height="800" alt="Screen Shot 2026-02-16 at 6 09 20 PM" src="https://github.com/user-attachments/assets/2352736a-6515-415b-b4d0-7d84cadab641" />
