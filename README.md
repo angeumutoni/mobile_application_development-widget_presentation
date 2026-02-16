@@ -37,13 +37,11 @@ flutter run </br>
 The app will run as expected. All you have to do next is long press the red delete icon to see the Tooltip.
 
 # The demo structure:
-project-name/
-│
-├── pubspec.yaml
-└── lib/
-    └── main.dart
-└── screenshots/
-    ├── web_tooltip.png
-    └── mobile_tooltip.png
-
-
+project-name/ </br>
+│ </br>
+├── pubspec.yaml </br>
+└── lib/ </br>
+    └── main.dart </br>
+└── screenshots/ </br>
+    ├── web_tooltip.png </br>
+    └── mobile_tooltip.png </br>
