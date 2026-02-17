@@ -28,7 +28,7 @@ Tooltip( <br/>
    **Link:** [https://api.flutlab.io/projects/3194191/download-app?key=xq4yfye3aalhxo9bxxru&target=all](url) </br>
    **QR Code:** </br> ![A62C759D-421D-4296-8C95-70A307171278_4_5005_c](https://github.com/user-attachments/assets/da385bc0-8100-4dbb-a082-1546eec09afd) </br>
    
-2. You will be redirected to this scree, click the "DOWNLOAD" button </br>
+2. You will be redirected to this screen, click the "DOWNLOAD" button </br>
 <img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/62715d10-e830-479b-bcfb-3b7ceacc8cd2" /> </br>
 3. Wait for the download to complete and head to the **Downloads** tab </br>
 <img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/77bb75e1-fd5f-4c13-b193-e98e847d116e" /> </br>
