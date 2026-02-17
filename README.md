@@ -24,7 +24,7 @@ Tooltip( <br/>
 10. preferBelow - Whether the tooltip appears below or above the widget it is attached to
 
 # Steps to run the demo on Android as an app
-1. Scan the QR Code or open this link on your Android device
+1. Scan the QR Code or open this link on your Android device </br>
    **Link:** [https://api.flutlab.io/projects/3194191/download-app?key=xq4yfye3aalhxo9bxxru&target=all](url) </br>
    **QR Code:** </br> ![A62C759D-421D-4296-8C95-70A307171278_4_5005_c](https://github.com/user-attachments/assets/da385bc0-8100-4dbb-a082-1546eec09afd) </br>
    
