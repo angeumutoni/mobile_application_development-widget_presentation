@@ -23,18 +23,26 @@ Tooltip( <br/>
 9. child – The widget the tooltip is attached to
 10. preferBelow - Whether the tooltip appears below or above the widget it is attached to
 
-# How to run the demo
-# 1. On Web:
-Ensure Flutter is installed, navigate to the project directory and run: </br>
-**flutter pub get** </br>
-**flutter run -d chrome** </br>
-The app will open in your browser. All you have to do next is hover over the red delete icon to see the Tooltip.
+# Steps to run the demo on Android as an app
+1. Scan the QR Code or open this link on your Android device
+   Link: [https://api.flutlab.io/projects/3194191/download-app?key=xq4yfye3aalhxo9bxxru&target=all](url) </br>
+   QR Code: ![A62C759D-421D-4296-8C95-70A307171278_4_5005_c](https://github.com/user-attachments/assets/da385bc0-8100-4dbb-a082-1546eec09afd) </br>
+   
+2. You will be redirected to this scree, click the "DOWNLOAD" button </br>
+<img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/62715d10-e830-479b-bcfb-3b7ceacc8cd2" /> </br>
+3. Wait for the download to complete and head to the **Downloads** tab </br>
+<img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/77bb75e1-fd5f-4c13-b193-e98e847d116e" /> </br>
 
-# 2. On Mobile Emulator
-Open Android Studio or VS Code, start an emulator and run: </br>
-**flutter pub get** </br>
-**flutter run** </br>
-The app will run as expected. All you have to do next is long press the red delete icon to see the Tooltip.
+4. Click select **TooltipWudgetDemo.apk** </br>
+<img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/285f7d93-4e1b-4202-a493-478b0032cf76" /> </br>
 
-# Screenshots
-<img width="1280" height="800" alt="Screen Shot 2026-02-16 at 6 09 20 PM" src="https://github.com/user-attachments/assets/2352736a-6515-415b-b4d0-7d84cadab641" />
+5. You will then receive a prompt to install the app or cancel, click **Install** </br>
+<img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/41baeea1-dae1-4a53-9571-82503d876536" /> </br>
+
+6. Locate the app on your Android device and open it </br>
+   <img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9b93478-ac72-4bd2-8bf6-a3878f114921" /> </br>
+   
+7. This is what it is supposed to look like at first glance vs when you long-press on the bin icon, displaying the Tooltip message: "This is a "BIN" icon" </br>
+  **N.B: **The tooltip message only appears for 2 seconds because that is the set showDuration, but it is adjustable as per user preference. </br>
+   <img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/18a062c9-a424-4730-a221-cd3d70980fae" />
+   <img width="486" height="1080" alt="image" src="https://github.com/user-attachments/assets/40e49573-6782-4770-a13e-fc978d99e0eb" />
